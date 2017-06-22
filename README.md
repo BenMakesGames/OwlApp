@@ -182,6 +182,11 @@ attaching controllers within controllers is technically possible, but will lead 
 
 I really can't recommend doing this - 'seems like it'd lead to super-weird and hard-to-debug code, but hey: I don't know your life.
 
+## Some Apps ##
+
+as I develop apps for Owl, I'll post them here:
+* a "check all" app (you know: for checkboxes) https://gist.github.com/BenMakesGames/c7532ec20ef6c0f3c0e8a0de077095c5
+
 ## Your Code Has a Flaw!
 
 ![UNACCEPTABLE!](https://media3.giphy.com/media/QUaqJRizED5NC/giphy.gif)
